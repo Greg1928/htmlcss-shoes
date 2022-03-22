@@ -63,8 +63,8 @@ section {
      top: 80%;
 
  }
- h1{
-     max-width: 500px;
+h1{
+     max-width: 450px;
      font-size: 40px;
      color: #ffff00;
      font-weight: bold;
@@ -72,6 +72,11 @@ section {
      word-spacing: 20px;
      text-align: center;
 
- }
+}
+#text-color{
+    color: #008000;
+}
+
+
 
 
