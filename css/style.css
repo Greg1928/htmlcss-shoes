@@ -13,8 +13,6 @@ body{
 header {
     position: fixed;
     z-index: 10;
-    top: 0;
-    left: 0;
     width: 100%;
     background-color: transparent;
 }
@@ -39,6 +37,9 @@ header {
     line-height: 45px;
     border-radius: 100%;
     margin-right: 30px;
+}
+.main-nav ul li a:hover{
+    background-color: lightgray;
 }
 section {
     position: relative;
