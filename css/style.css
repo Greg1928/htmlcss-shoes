@@ -7,6 +7,9 @@
 html {
     scroll-behavior: smooth;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
 header {
     position: fixed;
     z-index: 10;
@@ -50,3 +53,25 @@ section {
 #converse {
     background-color: #ffff00;
 }
+.box-img-text{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+ .bottom{
+     top: 80%;
+
+ }
+ h1{
+     max-width: 500px;
+     font-size: 40px;
+     color: #ffff00;
+     font-weight: bold;
+     text-transform: uppercase;
+     word-spacing: 20px;
+     text-align: center;
+
+ }
+
+
